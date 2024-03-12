@@ -1,0 +1,13 @@
+.back {
+  width: 200px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5px;
+  margin: 5px;
+
+  :hover {
+    text-decoration: underline;
+    color: rgb(235, 52, 104);
+  }
+}

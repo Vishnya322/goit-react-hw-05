@@ -1,0 +1,11 @@
+.moviesList {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 1.3em;
+  font-weight: 500;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}

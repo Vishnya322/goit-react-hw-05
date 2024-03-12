@@ -1,0 +1,18 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  background: #f4ebf2;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  box-shadow: #88687e;
+  border-radius: 5px;
+  width: 300px;
+}
+
+input::placeholder {
+  color: #622852;
+}
