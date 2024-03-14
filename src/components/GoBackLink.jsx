@@ -5,7 +5,6 @@ import { useRef } from 'react';
 
 export default function GoBackLink() {
   const location = useLocation();
-
   const goBack = useRef(location.state ?? '/');
 
   return (
